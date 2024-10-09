@@ -26,7 +26,7 @@ const latestPosts = [
       description:
          'Discover how blockchain can revolutionize the healthcare industry by enhancing data security and streamlining patient records.',
       pubDate: '2024-08-12',
-      category: 'Innovation',
+      category: 'Sustainability',
       slug: 'blockchain-in-healthcare-new-frontier',
       author: {
          name: 'Emily Davis',
@@ -39,7 +39,7 @@ const latestPosts = [
       description:
          'Discover how blockchain can revolutionize the healthcare industry by enhancing data security and streamlining patient records.',
       pubDate: '2024-08-12',
-      category: 'Innovation',
+      category: 'Security',
       slug: 'blockchain-in-healthcare-new-frontier',
       author: {
          name: 'Emily Davis',
@@ -52,7 +52,7 @@ const latestPosts = [
       description:
          'Discover how blockchain can revolutionize the healthcare industry by enhancing data security and streamlining patient records.',
       pubDate: '2024-08-12',
-      category: 'Innovation',
+      category: 'Competitive',
       slug: 'blockchain-in-healthcare-new-frontier',
       author: {
          name: 'Emily Davis',
