@@ -67,6 +67,7 @@ export const FeaturesCardsSection = () => {
                         cardIndex
                      ) => (
                         <div
+                           key={cardIndex}
                            className='inline-flex transition-all duration-500'
                            onMouseEnter={() => {
                               setIsHovered(true);
