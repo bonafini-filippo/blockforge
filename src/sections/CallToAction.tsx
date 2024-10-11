@@ -62,13 +62,13 @@ export const CallToActionSection = () => {
 
                {/* CONTENUTO  */}
                <h2 className='font-heading font-black text-4xl md:text-5xl lg:text-6xl text-center'>
-                  Iniai a lavorare <span className='block'>con noi</span>
+                  Qua inserisci <span className='block'>lo slogan</span>
                </h2>
                <p className='text-xl lg:text-2xl text-zinc-400 text-center mt-8 max-w-sm mx-auto'>
                   piccolo paragrafo da inserire qua
                </p>
                <div className='flex justify-center mt-12'>
-                  <CutCornerButton>Richiedi un preventivo</CutCornerButton>
+                  <CutCornerButton>Call to action</CutCornerButton>
                </div>
             </div>
          </div>

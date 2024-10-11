@@ -7,33 +7,33 @@ import Image from 'next/image';
 const cardData = [
    {
       image: '/assets/images/pill.png',
-      title: 'Tecnologia 1',
+      title: 'Card 1',
       description:
-         'Scopri come noi utilizziamo questa tecnologia e creiamo progetti fighissimi grazie allo studio e alla comprensione di questo.',
+         'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi odio incidunt fugiat nostrum, explicabo sit tempore eaque tenetur!',
       color: 'fuchsia',
       link: '',
    },
    {
       image: '/assets/images/cuboid.png',
-      title: 'Tecnologia 2',
+      title: 'Card 2',
       description:
-         'Scopri come noi utilizziamo questa tecnologia e creiamo progetti fighissimi grazie allo studio e alla comprensione di questo.',
+         'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi odio incidunt fugiat nostrum, explicabo sit tempore eaque tenetur!',
       color: 'lime',
       link: '',
    },
    {
       image: '/assets/images/cone.png',
-      title: 'Tecnologia 2',
+      title: 'Card 3',
       description:
-         'Scopri come noi utilizziamo questa tecnologia e creiamo progetti fighissimi grazie allo studio e alla comprensione di questo.',
+         'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi odio incidunt fugiat nostrum, explicabo sit tempore eaque tenetur!',
       color: 'cyan',
       link: '',
    },
    {
       image: '/assets/images/icosahedron.png',
-      title: 'Tecnologia 2',
+      title: 'Card 4',
       description:
-         'Scopri come noi utilizziamo questa tecnologia e creiamo progetti fighissimi grazie allo studio e alla comprensione di questo.',
+         'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi odio incidunt fugiat nostrum, explicabo sit tempore eaque tenetur!',
       color: 'violet',
       link: '',
    },
@@ -57,7 +57,7 @@ export const FeaturesCardsSection = () => {
       <section className='py-24 overflow-x-clip md:-mt-28'>
          <div className='container'>
             <h2 className='font-heading font-black text-4xl text-center md:text-5xl lg:text-6xl'>
-               Utilizziamo solo le migliori tecnologie
+               Qua bisogna inserire il titolo della sezione
             </h2>
             <div className='mt-36 lg:mt-48 flex'>
                <div className='flex flex-none gap-8'>

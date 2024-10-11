@@ -74,8 +74,9 @@ export const LatestPostsSection = () => {
          <div className='container'>
             <div className='max-w-3xl mx-auto'>
                <h2 className='font-heading font-black text-4xl md:text-5xl lg:text-6xl text-center'>
-                  Il tuo portale per tutto
+                  Titolo sezione blog
                </h2>
+               ∂
                <p className='text-xl lg:text-2xl text-center text-zinc-400 mt-8'>
                   Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                   Incidunt mollitia necessitatibus a alias, fugiat ducimus rerum
@@ -147,7 +148,7 @@ export const LatestPostsSection = () => {
             </div>
 
             <div className='flex justify-center mt-48  md:32'>
-               <CutCornerButton>Scopri di più</CutCornerButton>
+               <CutCornerButton>Vedi tutti i post</CutCornerButton>
             </div>
          </div>
       </section>

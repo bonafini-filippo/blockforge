@@ -43,19 +43,18 @@ export const HeroSection = () => {
          <div className='container'>
             <div className='relative z-10'>
                <p className='uppercase font-extrabold text-center text-zinc-500 tracking-wider'>
-                  Realizza il sito per la tua azienda
+                  Breve testo prima dello slogan
                </p>
                <h1 className='font-heading font-black text-5xl md:text-6xl lg:text-7xl text-center mt-4 max-w-3xl mx-auto'>
-                  Spostati nel digintale con Webcraft
+                  Slogan aziendale, importante per seo
                </h1>
                <p className='text-center text-xl md:text-2xl text-zinc-400 mt-6 max-w-xl mx-auto'>
-                  Scopri con noi la soluzione migliore per te e per la tua
-                  attività{' '}
+                  Breve descrizione dello scopo aziendale, importante per seo
                </p>
             </div>
 
             <div className='flex justify-center mt-10'>
-               <CutCornerButton>Scopri di più</CutCornerButton>
+               <CutCornerButton>Call to action</CutCornerButton>
             </div>
 
             <div className='flex justify-center mt-24'>

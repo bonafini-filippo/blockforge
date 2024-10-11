@@ -5,9 +5,9 @@ import { CutCornerButton } from '@/components/CutCornerButton';
 import { TextButton } from '@/components/TextButton';
 
 const listItems = [
-   'Scopri quanto è conveniente lavorare con noi',
-   'Dimostra agli altri di avere un sito stupendo',
-   'Tutto questo in rapidità e basso costo!!',
+   'Testo del primo punto della sezione features.',
+   'Testo del secondo punto della sezione features.',
+   'Testo del terzo punto della sezione features.',
 ];
 
 export const FeaturesGridSection = () => {
@@ -84,11 +84,11 @@ export const FeaturesGridSection = () => {
                <div className='grid grid-cols-1 md:grid-cols-3 gap-8'>
                   <div className='col-span-2'>
                      <h2 className='font-heading font-black text-4xl md:text-5xl lg:text-6xl'>
-                        Scopri altre cose da fare qua
+                        Titolo della sezione Features Grid
                      </h2>
                      <p className='text-xl lg:text-2xl text-zinc-400 mt-8'>
-                        QUesto è un paragrafo da modificare in futuro dove
-                        spiegare qualcosa che sia seo friendly
+                        Paragrafo importantissimo per la seo, inserire molte
+                        informazioni qua.
                      </p>
                      <ul className='flex flex-col gap-8 mt-12 '>
                         {listItems.map((item) => (
@@ -101,8 +101,8 @@ export const FeaturesGridSection = () => {
                         ))}
                      </ul>
                      <div className='flex gap-8 mt-12'>
-                        <CutCornerButton>Inizia</CutCornerButton>
-                        <TextButton>Scopri</TextButton>
+                        <CutCornerButton>Call to action</CutCornerButton>
+                        <TextButton>Call to action 2</TextButton>
                      </div>
                   </div>
                   <div className='hidden md:block'>
